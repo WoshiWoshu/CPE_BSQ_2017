@@ -6,4 +6,6 @@ USAGE :
 
         Make
         
-        ./bsq example_file
+        ./bsq example_file.txt
+        
+![Image description](cover.png)
